@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176051121606",
+    "project_id": "shrine-3dc85",
+    "storage_bucket": "shrine-3dc85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176051121606:android:af85509260b28a287296c7",
+        "android_client_info": {
+          "package_name": "com.example.shrine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEBsjjBLxj9ivBvvf5JTZcNpD-CEBbnW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
