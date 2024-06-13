@@ -1,4 +1,4 @@
-# MDC-100 Series of Codelabs
+# MDC-100 Series of Codelabs - SHRINE
 
 ## Getting Started
 
